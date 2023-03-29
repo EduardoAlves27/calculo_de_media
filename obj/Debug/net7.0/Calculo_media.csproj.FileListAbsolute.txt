@@ -1,0 +1,15 @@
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\bin\Debug\net7.0\Calculo_media.exe
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\bin\Debug\net7.0\Calculo_media.deps.json
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\bin\Debug\net7.0\Calculo_media.runtimeconfig.json
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\bin\Debug\net7.0\Calculo_media.dll
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\bin\Debug\net7.0\Calculo_media.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\obj\Debug\net7.0\Calculo_media.csproj.AssemblyReference.cache
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\obj\Debug\net7.0\Calculo_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\obj\Debug\net7.0\Calculo_media.AssemblyInfoInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\obj\Debug\net7.0\Calculo_media.AssemblyInfo.cs
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\obj\Debug\net7.0\Calculo_media.csproj.CoreCompileInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\obj\Debug\net7.0\Calculo_media.dll
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\obj\Debug\net7.0\refint\Calculo_media.dll
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\obj\Debug\net7.0\Calculo_media.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\obj\Debug\net7.0\Calculo_media.genruntimeconfig.cache
+C:\Users\46291995867\Desktop\Back_End_First\Calculo_media\obj\Debug\net7.0\ref\Calculo_media.dll
